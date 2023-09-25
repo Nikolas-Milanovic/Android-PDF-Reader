@@ -1,0 +1,4 @@
+com.example.pdfreader.test.app-androidTest-0 /Users/nikolasmilanovic/Documents/School/University/Course Work/YEAR 4/4B/CS 349/assignments/n2milano/a4/app/build/generated/res/resValues/androidTest/debug
+com.example.pdfreader.test.app-mergeDebugAndroidTestResources-1 /Users/nikolasmilanovic/Documents/School/University/Course Work/YEAR 4/4B/CS 349/assignments/n2milano/a4/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.example.pdfreader.test.app-mergeDebugAndroidTestResources-2 /Users/nikolasmilanovic/Documents/School/University/Course Work/YEAR 4/4B/CS 349/assignments/n2milano/a4/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.example.pdfreader.test.app-merged_res-3 /Users/nikolasmilanovic/Documents/School/University/Course Work/YEAR 4/4B/CS 349/assignments/n2milano/a4/app/build/intermediates/merged_res/debugAndroidTest

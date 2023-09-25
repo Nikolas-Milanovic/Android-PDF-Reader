@@ -1,0 +1,39 @@
+com.example.pdfreader.app-coordinatorlayout-1.1.0-0 /Users/nikolasmilanovic/.gradle/caches/transforms-3/1bf6890756b4d5d29414f3baedd8f319/transformed/coordinatorlayout-1.1.0/res
+com.example.pdfreader.app-lifecycle-process-2.4.0-1 /Users/nikolasmilanovic/.gradle/caches/transforms-3/1c90fa0f54e341c96c21eae2c0f82149/transformed/lifecycle-process-2.4.0/res
+com.example.pdfreader.app-annotation-experimental-1.1.0-2 /Users/nikolasmilanovic/.gradle/caches/transforms-3/2778ef668c96c479331c928484b0daf5/transformed/annotation-experimental-1.1.0/res
+com.example.pdfreader.app-navigation-ui-2.4.2-3 /Users/nikolasmilanovic/.gradle/caches/transforms-3/31e3c8334b3619f967a56241a210eda2/transformed/navigation-ui-2.4.2/res
+com.example.pdfreader.app-fragment-ktx-1.4.1-4 /Users/nikolasmilanovic/.gradle/caches/transforms-3/347cfcbdc531546b06b3901f007cc671/transformed/fragment-ktx-1.4.1/res
+com.example.pdfreader.app-recyclerview-1.1.0-5 /Users/nikolasmilanovic/.gradle/caches/transforms-3/4a7e579e4e0cc6583c83c5b0933e4083/transformed/recyclerview-1.1.0/res
+com.example.pdfreader.app-navigation-common-2.4.2-6 /Users/nikolasmilanovic/.gradle/caches/transforms-3/4b510de069ec00909082de05ecb39052/transformed/navigation-common-2.4.2/res
+com.example.pdfreader.app-constraintlayout-2.1.4-7 /Users/nikolasmilanovic/.gradle/caches/transforms-3/4d0124e2235abc61b595f3678dbcfbcb/transformed/constraintlayout-2.1.4/res
+com.example.pdfreader.app-drawerlayout-1.1.1-8 /Users/nikolasmilanovic/.gradle/caches/transforms-3/4d790e008718f3e569908cbbb4b0d355/transformed/drawerlayout-1.1.1/res
+com.example.pdfreader.app-navigation-fragment-2.4.2-9 /Users/nikolasmilanovic/.gradle/caches/transforms-3/57ec37f5095142c93e2d770f0755d699/transformed/navigation-fragment-2.4.2/res
+com.example.pdfreader.app-navigation-runtime-ktx-2.4.2-10 /Users/nikolasmilanovic/.gradle/caches/transforms-3/5eb03876233b5888561dad5fb889c886/transformed/navigation-runtime-ktx-2.4.2/res
+com.example.pdfreader.app-core-1.8.0-11 /Users/nikolasmilanovic/.gradle/caches/transforms-3/68ff479550ac611830e40e74e7812d6b/transformed/core-1.8.0/res
+com.example.pdfreader.app-lifecycle-runtime-2.4.0-12 /Users/nikolasmilanovic/.gradle/caches/transforms-3/6a3d77de48a5d5ead406e15066887158/transformed/lifecycle-runtime-2.4.0/res
+com.example.pdfreader.app-startup-runtime-1.0.0-13 /Users/nikolasmilanovic/.gradle/caches/transforms-3/6f91e2209c32329694a14f2aa38741f3/transformed/startup-runtime-1.0.0/res
+com.example.pdfreader.app-transition-1.4.1-14 /Users/nikolasmilanovic/.gradle/caches/transforms-3/7c742d2c34e342b64ab29543865a33a9/transformed/transition-1.4.1/res
+com.example.pdfreader.app-navigation-ui-ktx-2.4.2-15 /Users/nikolasmilanovic/.gradle/caches/transforms-3/8a7103f53de1044ed980ab205a63244e/transformed/navigation-ui-ktx-2.4.2/res
+com.example.pdfreader.app-fragment-1.4.1-16 /Users/nikolasmilanovic/.gradle/caches/transforms-3/95a529b20a1ac739e7a5acce887033db/transformed/fragment-1.4.1/res
+com.example.pdfreader.app-cardview-1.0.0-17 /Users/nikolasmilanovic/.gradle/caches/transforms-3/9ada3a0374ee6cc883702f16153b7677/transformed/cardview-1.0.0/res
+com.example.pdfreader.app-material-1.6.1-18 /Users/nikolasmilanovic/.gradle/caches/transforms-3/9eca9dac7ccf135afe70c5540f668570/transformed/material-1.6.1/res
+com.example.pdfreader.app-navigation-runtime-2.4.2-19 /Users/nikolasmilanovic/.gradle/caches/transforms-3/a71a7ea62205210ab6d290630eba71b9/transformed/navigation-runtime-2.4.2/res
+com.example.pdfreader.app-navigation-common-ktx-2.4.2-20 /Users/nikolasmilanovic/.gradle/caches/transforms-3/b0d2bb616a83855129e412da678647fb/transformed/navigation-common-ktx-2.4.2/res
+com.example.pdfreader.app-emoji2-views-helper-1.0.0-21 /Users/nikolasmilanovic/.gradle/caches/transforms-3/c2a6837bf38c28faadda66ba32bb8798/transformed/emoji2-views-helper-1.0.0/res
+com.example.pdfreader.app-savedstate-1.1.0-22 /Users/nikolasmilanovic/.gradle/caches/transforms-3/c2d81cf5cfa9b22e0f8e147d548a5db0/transformed/savedstate-1.1.0/res
+com.example.pdfreader.app-core-ktx-1.8.0-23 /Users/nikolasmilanovic/.gradle/caches/transforms-3/c2d9cba1c70bd024b0f83c4eaedf9c9a/transformed/core-ktx-1.8.0/res
+com.example.pdfreader.app-window-1.0.0-24 /Users/nikolasmilanovic/.gradle/caches/transforms-3/c94b748ba906014285b7ac00bcf47619/transformed/window-1.0.0/res
+com.example.pdfreader.app-emoji2-1.0.0-25 /Users/nikolasmilanovic/.gradle/caches/transforms-3/d203a164455d9efbcea4d5fd1db9891b/transformed/emoji2-1.0.0/res
+com.example.pdfreader.app-appcompat-resources-1.4.2-26 /Users/nikolasmilanovic/.gradle/caches/transforms-3/d3d83e2c20244f0b96bf30d389f249ff/transformed/appcompat-resources-1.4.2/res
+com.example.pdfreader.app-navigation-fragment-ktx-2.4.2-27 /Users/nikolasmilanovic/.gradle/caches/transforms-3/f00e0786032f21801d06a1997d6c10b5/transformed/navigation-fragment-ktx-2.4.2/res
+com.example.pdfreader.app-lifecycle-viewmodel-2.3.1-28 /Users/nikolasmilanovic/.gradle/caches/transforms-3/f160c33f5ca58f1cedfe96a5cf290c93/transformed/lifecycle-viewmodel-2.3.1/res
+com.example.pdfreader.app-viewpager2-1.0.0-29 /Users/nikolasmilanovic/.gradle/caches/transforms-3/f256f4f443cf3efb467e5758324a3966/transformed/viewpager2-1.0.0/res
+com.example.pdfreader.app-appcompat-1.4.2-30 /Users/nikolasmilanovic/.gradle/caches/transforms-3/f8550fb65aa01dc447c2e689e683f014/transformed/appcompat-1.4.2/res
+com.example.pdfreader.app-slidingpanelayout-1.2.0-31 /Users/nikolasmilanovic/.gradle/caches/transforms-3/ff68762dfc683f0a3c93d2adeae51d7a/transformed/slidingpanelayout-1.2.0/res
+com.example.pdfreader.app-pngs-32 /Users/nikolasmilanovic/Documents/School/University/Course Work/YEAR 4/4B/CS 349/assignments/n2milano/a4/app/build/generated/res/pngs/debug
+com.example.pdfreader.app-resValues-33 /Users/nikolasmilanovic/Documents/School/University/Course Work/YEAR 4/4B/CS 349/assignments/n2milano/a4/app/build/generated/res/resValues/debug
+com.example.pdfreader.app-packageDebugResources-34 /Users/nikolasmilanovic/Documents/School/University/Course Work/YEAR 4/4B/CS 349/assignments/n2milano/a4/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.pdfreader.app-packageDebugResources-35 /Users/nikolasmilanovic/Documents/School/University/Course Work/YEAR 4/4B/CS 349/assignments/n2milano/a4/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.pdfreader.app-merged_res-36 /Users/nikolasmilanovic/Documents/School/University/Course Work/YEAR 4/4B/CS 349/assignments/n2milano/a4/app/build/intermediates/merged_res/debug
+com.example.pdfreader.app-debug-37 /Users/nikolasmilanovic/Documents/School/University/Course Work/YEAR 4/4B/CS 349/assignments/n2milano/a4/app/src/debug/res
+com.example.pdfreader.app-main-38 /Users/nikolasmilanovic/Documents/School/University/Course Work/YEAR 4/4B/CS 349/assignments/n2milano/a4/app/src/main/res

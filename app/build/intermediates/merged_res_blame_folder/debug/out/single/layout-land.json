@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.pdfreader.app-mergeDebugResources-35:/layout-land/activity_main.xml",
+        "source": "com.example.pdfreader.app-main-38:/layout-land/activity_main.xml"
+    },
+    {
+        "merged": "/Users/nikolasmilanovic/.gradle/daemon/8.0/com.example.pdfreader.app-mergeDebugResources-35:/layout-land/activity_main.xml",
+        "source": "/Users/nikolasmilanovic/.gradle/daemon/8.0/com.example.pdfreader.app-main-38:/layout-land/activity_main.xml"
+    }
+]

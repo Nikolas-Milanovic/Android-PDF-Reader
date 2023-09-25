@@ -1,0 +1,93 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.pdfreader"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/Users/nikolasmilanovic/Documents/School/University/Course Work/YEAR 4/4B/CS 349/assignments/n2milano/a4/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->/Users/nikolasmilanovic/Documents/School/University/Course Work/YEAR 4/4B/CS 349/assignments/n2milano/a4/app/src/main/AndroidManifest.xml
+10
+11    <application
+11-->/Users/nikolasmilanovic/Documents/School/University/Course Work/YEAR 4/4B/CS 349/assignments/n2milano/a4/app/src/main/AndroidManifest.xml:5:5-26:19
+12        android:allowBackup="true"
+12-->/Users/nikolasmilanovic/Documents/School/University/Course Work/YEAR 4/4B/CS 349/assignments/n2milano/a4/app/src/main/AndroidManifest.xml:6:13-39
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.8.0] /Users/nikolasmilanovic/.gradle/caches/transforms-3/68ff479550ac611830e40e74e7812d6b/transformed/core-1.8.0/AndroidManifest.xml:24:18-86
+14        android:dataExtractionRules="@xml/data_extraction_rules"
+14-->/Users/nikolasmilanovic/Documents/School/University/Course Work/YEAR 4/4B/CS 349/assignments/n2milano/a4/app/src/main/AndroidManifest.xml:7:13-69
+15        android:debuggable="true"
+16        android:fullBackupContent="@xml/backup_rules"
+16-->/Users/nikolasmilanovic/Documents/School/University/Course Work/YEAR 4/4B/CS 349/assignments/n2milano/a4/app/src/main/AndroidManifest.xml:8:13-58
+17        android:icon="@mipmap/ic_launcher"
+17-->/Users/nikolasmilanovic/Documents/School/University/Course Work/YEAR 4/4B/CS 349/assignments/n2milano/a4/app/src/main/AndroidManifest.xml:9:13-47
+18        android:label="@string/app_name"
+18-->/Users/nikolasmilanovic/Documents/School/University/Course Work/YEAR 4/4B/CS 349/assignments/n2milano/a4/app/src/main/AndroidManifest.xml:10:13-45
+19        android:roundIcon="@mipmap/ic_launcher_round"
+19-->/Users/nikolasmilanovic/Documents/School/University/Course Work/YEAR 4/4B/CS 349/assignments/n2milano/a4/app/src/main/AndroidManifest.xml:11:13-58
+20        android:supportsRtl="true"
+20-->/Users/nikolasmilanovic/Documents/School/University/Course Work/YEAR 4/4B/CS 349/assignments/n2milano/a4/app/src/main/AndroidManifest.xml:12:13-39
+21        android:testOnly="true"
+22        android:theme="@style/Theme.PDFReader" >
+22-->/Users/nikolasmilanovic/Documents/School/University/Course Work/YEAR 4/4B/CS 349/assignments/n2milano/a4/app/src/main/AndroidManifest.xml:13:13-51
+23        <activity
+23-->/Users/nikolasmilanovic/Documents/School/University/Course Work/YEAR 4/4B/CS 349/assignments/n2milano/a4/app/src/main/AndroidManifest.xml:15:9-25:20
+24            android:name="com.example.pdfreader.MainActivity"
+24-->/Users/nikolasmilanovic/Documents/School/University/Course Work/YEAR 4/4B/CS 349/assignments/n2milano/a4/app/src/main/AndroidManifest.xml:16:17-45
+25            android:exported="true"
+25-->/Users/nikolasmilanovic/Documents/School/University/Course Work/YEAR 4/4B/CS 349/assignments/n2milano/a4/app/src/main/AndroidManifest.xml:17:17-40
+26            android:label="@string/app_name"
+26-->/Users/nikolasmilanovic/Documents/School/University/Course Work/YEAR 4/4B/CS 349/assignments/n2milano/a4/app/src/main/AndroidManifest.xml:18:17-49
+27            android:theme="@style/Theme.PDFReader.NoActionBar" >
+27-->/Users/nikolasmilanovic/Documents/School/University/Course Work/YEAR 4/4B/CS 349/assignments/n2milano/a4/app/src/main/AndroidManifest.xml:19:17-67
+28            <intent-filter>
+28-->/Users/nikolasmilanovic/Documents/School/University/Course Work/YEAR 4/4B/CS 349/assignments/n2milano/a4/app/src/main/AndroidManifest.xml:20:13-24:29
+29                <action android:name="android.intent.action.MAIN" />
+29-->/Users/nikolasmilanovic/Documents/School/University/Course Work/YEAR 4/4B/CS 349/assignments/n2milano/a4/app/src/main/AndroidManifest.xml:21:17-68
+29-->/Users/nikolasmilanovic/Documents/School/University/Course Work/YEAR 4/4B/CS 349/assignments/n2milano/a4/app/src/main/AndroidManifest.xml:21:25-66
+30
+31                <category android:name="android.intent.category.LAUNCHER" />
+31-->/Users/nikolasmilanovic/Documents/School/University/Course Work/YEAR 4/4B/CS 349/assignments/n2milano/a4/app/src/main/AndroidManifest.xml:23:17-76
+31-->/Users/nikolasmilanovic/Documents/School/University/Course Work/YEAR 4/4B/CS 349/assignments/n2milano/a4/app/src/main/AndroidManifest.xml:23:27-74
+32            </intent-filter>
+33        </activity>
+34
+35        <uses-library
+35-->[androidx.window:window:1.0.0] /Users/nikolasmilanovic/.gradle/caches/transforms-3/c94b748ba906014285b7ac00bcf47619/transformed/window-1.0.0/AndroidManifest.xml:25:9-27:40
+36            android:name="androidx.window.extensions"
+36-->[androidx.window:window:1.0.0] /Users/nikolasmilanovic/.gradle/caches/transforms-3/c94b748ba906014285b7ac00bcf47619/transformed/window-1.0.0/AndroidManifest.xml:26:13-54
+37            android:required="false" />
+37-->[androidx.window:window:1.0.0] /Users/nikolasmilanovic/.gradle/caches/transforms-3/c94b748ba906014285b7ac00bcf47619/transformed/window-1.0.0/AndroidManifest.xml:27:13-37
+38        <uses-library
+38-->[androidx.window:window:1.0.0] /Users/nikolasmilanovic/.gradle/caches/transforms-3/c94b748ba906014285b7ac00bcf47619/transformed/window-1.0.0/AndroidManifest.xml:28:9-30:40
+39            android:name="androidx.window.sidecar"
+39-->[androidx.window:window:1.0.0] /Users/nikolasmilanovic/.gradle/caches/transforms-3/c94b748ba906014285b7ac00bcf47619/transformed/window-1.0.0/AndroidManifest.xml:29:13-51
+40            android:required="false" />
+40-->[androidx.window:window:1.0.0] /Users/nikolasmilanovic/.gradle/caches/transforms-3/c94b748ba906014285b7ac00bcf47619/transformed/window-1.0.0/AndroidManifest.xml:30:13-37
+41
+42        <provider
+42-->[androidx.emoji2:emoji2:1.0.0] /Users/nikolasmilanovic/.gradle/caches/transforms-3/d203a164455d9efbcea4d5fd1db9891b/transformed/emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+43            android:name="androidx.startup.InitializationProvider"
+43-->[androidx.emoji2:emoji2:1.0.0] /Users/nikolasmilanovic/.gradle/caches/transforms-3/d203a164455d9efbcea4d5fd1db9891b/transformed/emoji2-1.0.0/AndroidManifest.xml:27:13-67
+44            android:authorities="com.example.pdfreader.androidx-startup"
+44-->[androidx.emoji2:emoji2:1.0.0] /Users/nikolasmilanovic/.gradle/caches/transforms-3/d203a164455d9efbcea4d5fd1db9891b/transformed/emoji2-1.0.0/AndroidManifest.xml:28:13-68
+45            android:exported="false" >
+45-->[androidx.emoji2:emoji2:1.0.0] /Users/nikolasmilanovic/.gradle/caches/transforms-3/d203a164455d9efbcea4d5fd1db9891b/transformed/emoji2-1.0.0/AndroidManifest.xml:29:13-37
+46            <meta-data
+46-->[androidx.emoji2:emoji2:1.0.0] /Users/nikolasmilanovic/.gradle/caches/transforms-3/d203a164455d9efbcea4d5fd1db9891b/transformed/emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+47                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+47-->[androidx.emoji2:emoji2:1.0.0] /Users/nikolasmilanovic/.gradle/caches/transforms-3/d203a164455d9efbcea4d5fd1db9891b/transformed/emoji2-1.0.0/AndroidManifest.xml:32:17-75
+48                android:value="androidx.startup" />
+48-->[androidx.emoji2:emoji2:1.0.0] /Users/nikolasmilanovic/.gradle/caches/transforms-3/d203a164455d9efbcea4d5fd1db9891b/transformed/emoji2-1.0.0/AndroidManifest.xml:33:17-49
+49            <meta-data
+49-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/nikolasmilanovic/.gradle/caches/transforms-3/1c90fa0f54e341c96c21eae2c0f82149/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+50                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+50-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/nikolasmilanovic/.gradle/caches/transforms-3/1c90fa0f54e341c96c21eae2c0f82149/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
+51                android:value="androidx.startup" />
+51-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/nikolasmilanovic/.gradle/caches/transforms-3/1c90fa0f54e341c96c21eae2c0f82149/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+52        </provider>
+53    </application>
+54
+55</manifest>

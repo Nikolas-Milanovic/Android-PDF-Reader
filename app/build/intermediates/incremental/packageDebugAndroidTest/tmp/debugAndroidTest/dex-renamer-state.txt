@@ -1,0 +1,10 @@
+#Sun Aug 13 19:19:03 EEST 2023
+base.0=/Users/nikolasmilanovic/Documents/School/University/Course Work/YEAR 4/4B/CS 349/assignments/n2milano/a4/app/build/intermediates/dex/debugAndroidTest/mergeExtDexDebugAndroidTest/classes.dex
+base.1=/Users/nikolasmilanovic/Documents/School/University/Course Work/YEAR 4/4B/CS 349/assignments/n2milano/a4/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
+base.2=/Users/nikolasmilanovic/Documents/School/University/Course Work/YEAR 4/4B/CS 349/assignments/n2milano/a4/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/8/classes.dex
+path.0=classes.dex
+path.1=0/classes.dex
+path.2=8/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex

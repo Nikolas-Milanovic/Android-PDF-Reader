@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:visibility="visible"
+    tools:context=".MainActivity"
+    tools:visibility="visible">
+
+
+    <LinearLayout
+        android:id="@+id/linearLayout3"
+        android:layout_width="790dp"
+        android:layout_height="74dp"
+        android:orientation="horizontal"
+        app:layout_constraintBottom_toTopOf="@+id/pdfLayout"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.5">
+
+        <TextView
+            android:id="@+id/fileName"
+            android:layout_width="wrap_content"
+            android:layout_height="42dp"
+            android:layout_weight="1"
+            android:text="TextView"
+            android:layout_margin="16dp" />
+
+        <RadioGroup
+            android:id="@+id/modeSelection"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+            <RadioButton
+                android:id="@+id/pan"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Pan" />
+
+            <RadioButton
+                android:id="@+id/draw"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Draw"
+                android:checked="true"
+                />
+
+            <RadioButton
+                android:id="@+id/highlight"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Highlight" />
+
+            <RadioButton
+                android:id="@+id/erase"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Erase" />
+        </RadioGroup>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/pdfLayout"
+        android:layout_width="1285dp"
+        android:layout_height="615dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toTopOf="@+id/linearLayout"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.428"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/linearLayout3"></LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="873dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="8dp"
+        android:orientation="horizontal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.489"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/pdfLayout">
+
+        <Button
+            android:id="@+id/undoButton"
+            android:layout_width="107dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Undo" />
+
+        <Button
+            android:id="@+id/redoButton"
+            android:layout_width="107dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Redo" />
+
+        <TextView
+            android:id="@+id/currPage"
+            android:layout_width="107dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="Page 1/N" />
+
+        <Button
+            android:id="@+id/backButton"
+            android:layout_width="107dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Back" />
+
+        <Button
+            android:id="@+id/nextButton"
+            android:layout_width="107dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Next" />
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+
+
+<!--<LinearLayout-->
+<!--android:id="@+id/linearLayout"-->
+<!--android:layout_width="match_parent"-->
+<!--android:layout_height="wrap_content"-->
+<!--app:layout_constraintBottom_toBottomOf="parent"-->
+<!--app:layout_constraintStart_toStartOf="parent">-->
+
+<!--<Button-->
+<!--    android:id="@+id/backButton"-->
+<!--    android:layout_width="match_parent"-->
+<!--    android:layout_height="100dp"-->
+<!--    android:layout_weight="1"-->
+<!--    android:text="Back" />-->
+
+<!--<Button-->
+<!--    android:id="@+id/nextButton"-->
+<!--    android:layout_width="match_parent"-->
+<!--    android:layout_height="100dp"-->
+<!--    android:layout_weight="1"-->
+<!--    android:text="Next" />-->
+<!--</LinearLayout>-->
+
+<!--<LinearLayout-->
+<!--android:id="@+id/pdfLayout"-->
+<!--android:layout_width="6080dp"-->
+<!--android:layout_height="8478dp"-->
+<!--android:orientation="vertical"-->
+<!--app:layout_constraintBottom_toTopOf="@+id/linearLayout"-->
+<!--app:layout_constraintEnd_toEndOf="parent"-->
+<!--app:layout_constraintHorizontal_bias="0.0"-->
+<!--app:layout_constraintStart_toStartOf="parent"-->
+<!--app:layout_constraintTop_toTopOf="parent"-->
+<!--app:layout_constraintVertical_bias="0.0">-->
+
+<!--</LinearLayout>-->
+
+    <!--    <ImageView-->
+    <!--            android:id="@+id/pdfImage"-->
+    <!--            android:layout_width="match_parent"-->
+    <!--            android:layout_height="match_parent"-->
+    <!--            android:background="@android:color/white"-->
+    <!--            android:contentDescription="@null"-->
+    <!--            android:scaleType="fitCenter" />-->
+

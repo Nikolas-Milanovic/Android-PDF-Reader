@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.pdfreader.app-mergeDebugResources-34:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/Users/nikolasmilanovic/.gradle/caches/transforms-3/f8550fb65aa01dc447c2e689e683f014/transformed/appcompat-1.4.2/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}
